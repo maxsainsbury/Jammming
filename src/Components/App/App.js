@@ -7,10 +7,10 @@ export class App extends React.Component {
     
     return (
       <div>
-        <h1>Ja<span className='hightlight'>mmm</span>ing</h1>
-        <div className='App'>
+        <h1>Ja<span className="highlight">mmm</span>ing</h1>
+        <div className="App">
           //SearchBar
-          <div className='App-playlist'>
+          <div className="App-playlist">
             //searchResults
             //playlist
           </div>
