@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = '64e70a4eba5643fd922c03ae79de0fab';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'http://maxsainsbury.surge.sh';
 
 const Spotify = {
 
